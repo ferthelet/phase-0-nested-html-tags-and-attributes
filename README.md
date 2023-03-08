@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Assess HTML document structure
-- Identify HTML tag attributes and their purposes
+- Assess HTML document structure.
+- Identify HTML tag attributes and their purposes.
 
 ## Introduction
 
